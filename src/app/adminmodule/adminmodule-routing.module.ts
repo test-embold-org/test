@@ -17,6 +17,7 @@ import { WholesalerComponent } from '../wholesaler/wholesaler.component';
 import { WholsalerorderComponent } from '../wholsalerorder/wholsalerorder.component';
 import { AdminlayoutComponent } from './adminlayout/adminlayout.component';
 
+
 const routes: Routes = [
   {
     path:'' ,
