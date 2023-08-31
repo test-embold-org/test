@@ -1,3 +1,4 @@
+
 import { HttpClient } from '@angular/common/http';
 import { Component, OnInit } from '@angular/core';
 import { FormControl, FormGroup, Validators } from '@angular/forms';
@@ -51,4 +52,5 @@ export class AddcustomerComponent implements OnInit {
   gotoCustomerOrder() {
     this.router.navigate(['/orderpagecustomer'])
   }
+  
 }
